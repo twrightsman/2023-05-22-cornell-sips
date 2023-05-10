@@ -99,6 +99,11 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+<p id="who">
+  <strong>Who:</strong>
+  Pre-registered SIPS students and post-docs. This is <strong>not a public workshop</strong>.
+</p>
+
 {% comment %}
 LOCATION
 
